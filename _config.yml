@@ -1,0 +1,14 @@
+layout_spectrum: 0.48640624387189746
+typography_spectrum: 0.1363638830371201
+color:
+  brandStrength: 0.5701027454342693
+  lightness: 0.9202724758069962
+  saturation: 0.4008012821432203
+  rhythmicContrast: 0.44917046185582876
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: ExiBIT
