@@ -11,18 +11,15 @@ publisher:
   domain: hundeverein-freiburg-west.de
 keywords: []
 description: >-
-  Im Rahmen der Landesgruppen Zuchtschau der Landesgruppe Baden fand die Vergabe
-  der Zertifizierung unserer Ortsgruppe statt. Die vom Verein für Deutsche
-  Schäferhunde (SV) e.V. ins Leben gerufen Zertifizierung ist ein
-  Qualitätssiegel für die SV Ortsgruppen, die eine umfangreiche Liste von
-  Anforderungen erfüllen, wie z.B.
+  Wieder in wundervoller Tag in der Schweiz (OG Bern) mit Freunden aus der OG
+  Freiburg-West und aus anderen OGs!!
 inLanguage: de
 app_links: []
 isBasedOnUrl: >-
-  http://hundeverein-freiburg-west.de/wordpress/2016/07/1-zertifizierte-sv-ortsgruppe-der-region-freiburg/
+  http://hundeverein-freiburg-west.de/wordpress/2016/04/zuchtschau-in-bern-ch-10-04-2016/
 title: OG Freiburg-West
-datePublished: '2016-08-09T07:40:41.868Z'
-dateModified: '2016-08-09T07:39:47.223Z'
+datePublished: '2016-08-09T07:47:52.752Z'
+dateModified: '2016-08-09T07:47:40.073Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-09-og-freiburg-west.md
@@ -33,4 +30,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>OG Freiburg-West</h1><p>Im Rahmen der Landesgruppen Zuchtschau der Landesgruppe Baden fand die Vergabe der Zertifizierung unserer Ortsgruppe statt. Die vom Verein für Deutsche Schäferhunde (SV) e.V. ins Leben gerufen Zertifizierung ist ein Qualitätssiegel für die SV Ortsgruppen, die eine umfangreiche Liste von Anforderungen erfüllen, wie z.B.</p><img src="http://www.hundeverein-freiburg-west.de/wordpress/wp-content/uploads/2016/07/LAU1604-1024x682.jpg" /></article>
+<article style=""><h1>OG Freiburg-West</h1><p>Wieder in wundervoller Tag in der Schweiz (OG Bern) mit Freunden aus der OG Freiburg-West und aus anderen OGs!!</p><img src="http://hundeverein-freiburg-west.de/wordpress/wp-content/uploads/2016/04/LAU1226-1024x790.jpg" /></article>
