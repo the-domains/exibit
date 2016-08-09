@@ -12,7 +12,4 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: ExiBIT
-navigation:
-  - name: About ExiBIT
-    url: 'http://exibit-cm.com'
-    type: external
+navigation: []
